@@ -7,7 +7,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
  * 管理日志类
  *
  * 记录：在执行方法前，记录执行了什么方法
- *      执行方法后，记录
+ *      执行方02
  *      执行方法中呼唤就会
  *
  */
