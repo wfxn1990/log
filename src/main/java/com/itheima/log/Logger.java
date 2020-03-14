@@ -8,7 +8,7 @@ import org.aspectj.lang.ProceedingJoinPoint;
  *
  * 记录：在执行方法前，记录执行了什么方法
  *      执行方法后，记录
- *      执行方法中出现了什么异常
+ *      执行方法中呼唤就会
  *
  */
 public class Logger {
